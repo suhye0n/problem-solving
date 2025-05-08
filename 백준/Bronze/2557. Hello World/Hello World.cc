@@ -1,16 +1,19 @@
 /**
- *     author:  stella
- *     created: 05.06.2025 22:34:46
+ *    author:  suhye0n
+ *    created: 08.05.2025 22:10:11
 **/
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <algorithm>
+#include <climits>
 
 using namespace std;
 
 int main() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
+  ios::sync_with_stdio(false);
+  cin.tie(0);
 
-    cout << "Hello World!" << '\n';
+  cout << "Hello World!" << '\n';
 
-    return 0;
+  return 0;
 }
